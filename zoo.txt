@@ -1,0 +1,3 @@
+patterns
+trends
+parallel coordinates
